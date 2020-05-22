@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Personal Profile</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>The transcriptional corepressor CBFA2T3 inhibits all-trans retinoic acid–induced myeloid gene expression and differentiation in acute myeloid leukemia</title>
+      <link>/publication/jbc_atra/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbc_atra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histone Deacetylase 3 Preferentially Binds and Collaborates With the Transcription Factor RUNX1 to Repress AML1-ETO-dependent Transcription in t(8;21) AML</title>
+      <link>/publication/jbc_hdac3/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/jbc_hdac3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LXR-inverse agonism stimulates immune-mediated tumor destruction by enhancing CD8 T-cell activity in triple negative breast cancer</title>
+      <link>/publication/sr_lxr/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sr_lxr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Myeloid translocation gene CBFA2T3 directs a relapse gene program and determines patient-specific outcomes in AML</title>
+      <link>/publication/ba_cbfa2t3/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ba_cbfa2t3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
